@@ -42,7 +42,7 @@ function asyncFunction() {
 }
 ```
 
-Errors can be intercepted both with try catch, or withing .catch promise method:
+Errors can be intercepted both with try catch, or with .catch promise method:
 
 ```js
 run(function *() { // generator function
