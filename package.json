@@ -1,0 +1,21 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "A small library providing a generator runner function for es6 generators",
+  "main": "run.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madeinstefano/run.git"
+  },
+  "keywords": [
+    "es6",
+    "js",
+    "javascript",
+    "generators"
+  ],
+  "author": "Stéfano Stypulkowski (http://szanata.com)",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/madeinstefano/run/issues"
+  }
+}
