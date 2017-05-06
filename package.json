@@ -1,5 +1,5 @@
 {
-  "name": "run",
+  "name": "simplerunner",
   "version": "1.0.0",
   "description": "A small library providing a generator runner function for es6 generators",
   "main": "run.js",
