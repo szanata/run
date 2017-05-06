@@ -9,14 +9,10 @@ and
 
 I just isolated this function, made small flavor changes and created a npm package.
 
-#### Install:
-
-`npm install simplerunner`
-
 #### Usage:
 
 ```js
-var run = require('simplerunner'); // import
+var run = require('run'); // import
 
 run(function *() { // generator function
   
