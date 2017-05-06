@@ -1,6 +1,6 @@
 ### Run
 
-A simple es6 generators runner
+A simple es6 generator based control flow, or simple generator runner
 
 **All credits go to:
 [Kyle Simpson](https://github.com/getify)
