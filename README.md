@@ -3,7 +3,7 @@
 A simple es6 generators runner
 
 **All credits go to:
-[Dave Shifflett](https://github.com/corpulentcoffee)
+[Kyle Simpson](https://github.com/getify)
 and
 [Benjamin Gruenbaum](https://github.com/benjamingr)**
 
